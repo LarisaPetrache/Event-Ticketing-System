@@ -1,0 +1,12 @@
+Sala Palatului
+Strada Ion Câmpineanu 28, București 010039
+9
+A I 4 8
+B I 3 8
+C I 2 8
+D I 1 8
+E I 5 8
+F I 3 6
+G I 2 4
+H I 6 10
+I I 2 4

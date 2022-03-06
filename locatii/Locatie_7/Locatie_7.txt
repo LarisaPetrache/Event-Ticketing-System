@@ -1,0 +1,9 @@
+Ploiesti Shopping City
+DJ236, Blejoi 107070
+6
+A I 5 6
+B I 3 6
+C I 7 4
+D I 7 4
+E I 4 7
+F I 2 5

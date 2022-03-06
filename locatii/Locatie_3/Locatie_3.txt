@@ -1,0 +1,11 @@
+Filarmonica Paul Constantinescu
+Strada Anton Pann, Ploiesti
+8
+A I 4 8
+B I 3 5
+C I 2 7
+D I 5 8
+E I 3 6
+F I 4 8
+G I 3 8
+H I 5 5

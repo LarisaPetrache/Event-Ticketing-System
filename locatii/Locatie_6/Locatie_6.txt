@@ -1,0 +1,11 @@
+National Arena
+Bulevardul Basarabia, nr 37, Bucuresti
+8
+A I 5 8
+B I 3 6
+C I 2 6
+D I 5 3
+E I 5 3
+F I 3 4
+G I 4 6
+H I 3 4

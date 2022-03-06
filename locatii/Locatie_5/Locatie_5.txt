@@ -1,0 +1,11 @@
+Romexpo
+Blvd Marasti nr 65-67, Bucuresti
+8
+A I 5 7
+B I 4 6
+C I 2 5
+D I 3 8
+E I 5 8
+F I 3 6
+G I 2 5
+H I 4 7
